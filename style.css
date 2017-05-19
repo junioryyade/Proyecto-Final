@@ -10,3 +10,6 @@ img{
   font-size: 36px;
   color: blue;
 }
+body{
+  background-image: url('flag.jpg');
+}
