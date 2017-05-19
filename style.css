@@ -17,3 +17,6 @@ img{
 body{
   background-image: url('flag.jpg');
 }
+*{
+  cursor: url('ball.png') default;
+}
